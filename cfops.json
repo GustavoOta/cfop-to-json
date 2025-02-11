@@ -1,0 +1,4490 @@
+[
+  {
+    "codigo": "1101",
+    "descricao": "Compra p/ industrialização ou produção rural",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "1102",
+    "descricao": "Compra p/ comercialização",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "1111",
+    "descricao": "Compra p/ industrialização de mercadoria recebida anteriormente em consignação industrial",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "1113",
+    "descricao": "Compra p/ comercialização, de mercadoria recebida anteriormente em consignação mercantil",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "1116",
+    "descricao": "Compra p/ industrialização ou produção rural originada de encomenda p/ recebimento futuro",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "1117",
+    "descricao": "Compra p/ comercialização originada de encomenda p/ recebimento futuro",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "1118",
+    "descricao": "Compra de mercadoria p/ comercialização pelo adquirente originário, entregue pelo vendedor remetente ao destinatário, em venda à ordem.",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "1120",
+    "descricao": "Compra p/ industrialização, em venda à ordem, já recebida do vendedor remetente",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "1121",
+    "descricao": "Compra p/ comercialização, em venda à ordem, já recebida do vendedor remetente",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "1122",
+    "descricao": "Compra p/ industrialização em que a mercadoria foi remetida pelo fornecedor ao industrializador sem transitar pelo estabelecimento adquirente",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "1124",
+    "descricao": "Industrialização efetuada por outra empresa",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "1125",
+    "descricao": "Industrialização efetuada por outra empresa quando a mercadoria remetida p/ utilização no processo de industrialização não transitou pelo estabelecimento adquirente da mercadoria",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "1126",
+    "descricao": "Compra p/ utilização na prestação de serviço sujeita ao ICMS",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "1128",
+    "descricao": "Compra p/ utilização na prestação de serviço sujeita ao ISSQN",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "1151",
+    "descricao": "Transferência p/ industrialização ou produção rural",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "1152",
+    "descricao": "Transferência p/ comercialização",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "1153",
+    "descricao": "Transferência de energia elétrica p/ distribuição",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "1154",
+    "descricao": "Transferência p/ utilização na prestação de serviço",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "1201",
+    "descricao": "Devolução de venda de produção do estabelecimento ",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "1"
+  },
+  {
+    "codigo": "1202",
+    "descricao": "Devolução de venda de mercadoria adquirida ou recebida de terceiros",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "1"
+  },
+  {
+    "codigo": "1203",
+    "descricao": "Devolução de venda de produção do estabelecimento, destinada à ZFM ou ALC",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "1"
+  },
+  {
+    "codigo": "1204",
+    "descricao": "Devolução de venda de mercadoria adquirida ou recebida de terceiros, destinada à ZFM ou ALC",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "1"
+  },
+  {
+    "codigo": "1205",
+    "descricao": "Anulação de valor relativo à prestação de serviço de comunicação",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "1206",
+    "descricao": "Anulação de valor relativo à prestação de serviço de transporte",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "1207",
+    "descricao": "Anulação de valor relativo à venda de energia elétrica",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "1208",
+    "descricao": "Devolução de produção do estabelecimento, remetida em transferência",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "1"
+  },
+  {
+    "codigo": "1209",
+    "descricao": "Devolução de mercadoria adquirida ou recebida de terceiros, remetida em transferência",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "1"
+  },
+  {
+    "codigo": "1212",
+    "descricao": "Devolução de venda no mercado interno de mercadoria industrializada e insumo importado sob o Regime Aduaneiro Especial de Entreposto Industrial (Recof-Sped)",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "1"
+  },
+  {
+    "codigo": "1251",
+    "descricao": "Compra de energia elétrica p/ distribuição ou comercialização",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "1252",
+    "descricao": "Compra de energia elétrica por estabelecimento industrial",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "1253",
+    "descricao": "Compra de energia elétrica por estabelecimento comercial",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "1254",
+    "descricao": "Compra de energia elétrica por estabelecimento prestador de serviço de transporte",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "1255",
+    "descricao": "Compra de energia elétrica por estabelecimento prestador de serviço de comunicação",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "1256",
+    "descricao": "Compra de energia elétrica por estabelecimento de produtor rural",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "1257",
+    "descricao": "Compra de energia elétrica p/ consumo por demanda contratada",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "1301",
+    "descricao": "Aquisição de serviço de comunicação p/ execução de serviço da mesma natureza",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "1302",
+    "descricao": "Aquisição de serviço de comunicação por estabelecimento industrial",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "1303",
+    "descricao": "Aquisição de serviço de comunicação por estabelecimento comercial",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "1304",
+    "descricao": "Aquisição de serviço de comunicação por estabelecimento de prestador de serviço de transporte",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "1305",
+    "descricao": "Aquisição de serviço de comunicação por estabelecimento de geradora ou de distribuidora de energia elétrica",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "1306",
+    "descricao": "Aquisição de serviço de comunicação por estabelecimento de produtor rural",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "1351",
+    "descricao": "Aquisição de serviço de transporte p/ execução de serviço da mesma natureza",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "1352",
+    "descricao": "Aquisição de serviço de transporte por estabelecimento industrial",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "1353",
+    "descricao": "Aquisição de serviço de transporte por estabelecimento comercial",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "1354",
+    "descricao": "Aquisição de serviço de transporte por estabelecimento de prestador de serviço de comunicação",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "1355",
+    "descricao": "Aquisição de serviço de transporte por estabelecimento de geradora ou de distribuidora de energia elétrica",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "1356",
+    "descricao": "Aquisição de serviço de transporte por estabelecimento de produtor rural",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "1360",
+    "descricao": "Aquisição de serviço de transporte por contribuinte-substituto em relação ao serviço de transporte",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "1401",
+    "descricao": "Compra p/ industrialização ou produção rural de mercadoria sujeita a ST",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "1403",
+    "descricao": "Compra p/ comercialização em operação com mercadoria sujeita a ST",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "1406",
+    "descricao": "Compra de bem p/ o ativo imobilizado cuja mercadoria está sujeita a ST",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "1407",
+    "descricao": "Compra de mercadoria p/ uso ou consumo cuja mercadoria está sujeita a ST",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "1408",
+    "descricao": "Transferência p/ industrialização ou produção rural de mercadoria sujeita a ST",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "1409",
+    "descricao": "Transferência p/ comercialização em operação com mercadoria sujeita a ST",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "1410",
+    "descricao": "Devolução de venda de mercadoria, de produção do estabelecimento, sujeita a ST",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "1"
+  },
+  {
+    "codigo": "1411",
+    "descricao": "Devolução de venda de mercadoria adquirida ou recebida de terceiros em operação com mercadoria sujeita a ST",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "1"
+  },
+  {
+    "codigo": "1414",
+    "descricao": "Retorno de mercadoria de produção do estabelecimento, remetida p/ venda fora do estabelecimento, sujeita a ST",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "1415",
+    "descricao": "Retorno de mercadoria adquirida ou recebida de terceiros, remetida p/ venda fora do estabelecimento em operação com mercadoria sujeita a ST",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "1451",
+    "descricao": "Retorno de animal do estabelecimento produtor",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "1452",
+    "descricao": "Retorno de insumo não utilizado na produção",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "1501",
+    "descricao": "Entrada de mercadoria recebida com fim específico de exportação",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "1503",
+    "descricao": "Entrada decorrente de devolução de produto, de fabricação do estabelecimento, remetido com fim específico de exportação",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "1"
+  },
+  {
+    "codigo": "1504",
+    "descricao": "Entrada decorrente de devolução de mercadoria remetida com fim específico de exportação, adquirida ou recebida de terceiros",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "1"
+  },
+  {
+    "codigo": "1505",
+    "descricao": "Entrada decorrente de devolução simbólica de mercadoria remetida p/ formação de lote de exportação, de produto industrializado ou produzido pelo próprio estabelecimento.",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "1"
+  },
+  {
+    "codigo": "1506",
+    "descricao": "Entrada decorrente de devolução simbólica de mercadoria, adquirida ou recebida de terceiros, remetida p/ formação de lote de exportação.",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "1"
+  },
+  {
+    "codigo": "1551",
+    "descricao": "Compra de bem p/ o ativo imobilizado",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "1552",
+    "descricao": "Transferência de bem do ativo imobilizado",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "1553",
+    "descricao": "Devolução de venda de bem do ativo imobilizado",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "1"
+  },
+  {
+    "codigo": "1554",
+    "descricao": "Retorno de bem do ativo imobilizado remetido p/ uso fora do estabelecimento",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "1555",
+    "descricao": "Entrada de bem do ativo imobilizado de terceiro, remetido p/ uso no estabelecimento",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "1556",
+    "descricao": "Compra de material p/ uso ou consumo",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "1557",
+    "descricao": "Transferência de material p/ uso ou consumo",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "1601",
+    "descricao": "Recebimento, por transferência, de crédito de ICMS",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "1602",
+    "descricao": "Recebimento, por transferência, de saldo credor do ICMS, de outro estabelecimento da mesma empresa, p/ compensação de saldo devedor do imposto. ",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "1603",
+    "descricao": "Ressarcimento de ICMS retido por substituição tributária",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "1604",
+    "descricao": "Lançamento do crédito relativo à compra de bem p/ o ativo imobilizado",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "1605",
+    "descricao": "Recebimento, por transferência, de saldo devedor do ICMS de outro estabelecimento da mesma empresa",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "1651",
+    "descricao": "Compra de combustível ou lubrificante p/ industrialização subseqüente",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "1652",
+    "descricao": "Compra de combustível ou lubrificante p/ comercialização",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "1653",
+    "descricao": "Compra de combustível ou lubrificante por consumidor ou usuário final",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "1658",
+    "descricao": "Transferência de combustível ou lubrificante p/ industrialização",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "1659",
+    "descricao": "Transferência de combustível ou lubrificante p/ comercialização",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "1660",
+    "descricao": "Devolução de venda de combustível ou lubrificante destinados à industrialização subseqüente",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "1"
+  },
+  {
+    "codigo": "1661",
+    "descricao": "Devolução de venda de combustível ou lubrificante destinados à comercialização",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "1"
+  },
+  {
+    "codigo": "1662",
+    "descricao": "Devolução de venda de combustível ou lubrificante destinados a consumidor ou usuário final",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "1"
+  },
+  {
+    "codigo": "1663",
+    "descricao": "Entrada de combustível ou lubrificante p/ armazenagem",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "1664",
+    "descricao": "Retorno de combustível ou lubrificante remetidos p/ armazenagem",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "1901",
+    "descricao": "Entrada p/ industrialização por encomenda",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "1902",
+    "descricao": "Retorno de mercadoria remetida p/ industrialização por encomenda",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "1903",
+    "descricao": "Entrada de mercadoria remetida p/ industrialização e não aplicada no referido processo",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "1904",
+    "descricao": "Retorno de remessa p/ venda fora do estabelecimento",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "1905",
+    "descricao": "Entrada de mercadoria recebida p/ depósito em depósito fechado ou armazém geral",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "1906",
+    "descricao": "Retorno de mercadoria remetida p/ depósito fechado ou armazém geral",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "1907",
+    "descricao": "Retorno simbólico de mercadoria remetida p/ depósito fechado ou armazém geral",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "1908",
+    "descricao": "Entrada de bem por conta de contrato de comodato",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "1909",
+    "descricao": "Retorno de bem remetido por conta de contrato de comodato",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "1910",
+    "descricao": "Entrada de bonificação, doação ou brinde",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "1911",
+    "descricao": "Entrada de amostra grátis",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "1912",
+    "descricao": "Entrada de mercadoria ou bem recebido p/ demonstração",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "1913",
+    "descricao": "Retorno de mercadoria ou bem remetido p/ demonstração",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "1914",
+    "descricao": "Retorno de mercadoria ou bem remetido p/ exposição ou feira",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "1915",
+    "descricao": "Entrada de mercadoria ou bem recebido p/ conserto ou reparo",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "1916",
+    "descricao": "Retorno de mercadoria ou bem remetido p/ conserto ou reparo",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "1917",
+    "descricao": "Entrada de mercadoria recebida em consignação mercantil ou industrial",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "1918",
+    "descricao": "Devolução de mercadoria remetida em consignação mercantil ou industrial",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "1"
+  },
+  {
+    "codigo": "1919",
+    "descricao": "Devolução simbólica de mercadoria vendida ou utilizada em processo industrial, remetida anteriormente em consignação mercantil ou industrial",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "1"
+  },
+  {
+    "codigo": "1920",
+    "descricao": "Entrada de vasilhame ou sacaria",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "1921",
+    "descricao": "Retorno de vasilhame ou sacaria",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "1922",
+    "descricao": "Lançamento efetuado a título de simples faturamento decorrente de compra p/ recebimento futuro",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "1923",
+    "descricao": "Entrada de mercadoria recebida do vendedor remetente, em venda à ordem",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "1924",
+    "descricao": "Entrada p/ industrialização por conta e ordem do adquirente da mercadoria, quando esta não transitar pelo estabelecimento do adquirente",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "1925",
+    "descricao": "Retorno de mercadoria remetida p/ industrialização por conta e ordem do adquirente da mercadoria, quando esta não transitar pelo estabelecimento do adquirente",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "1926",
+    "descricao": "Lançamento efetuado a título de reclassificação de mercadoria decorrente de formação de kit ou de sua desagregação",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "1931",
+    "descricao": "Lançamento efetuado pelo tomador do serviço de transporte, quando a responsabilidade de retenção do imposto for atribuída ao remetente ou alienante da mercadoria, pelo serviço de transporte realizado por transportador autônomo ou por transportador não-inscrito na UF onde se tenha iniciado o serviço.",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "1932",
+    "descricao": "Aquisição de serviço de transporte iniciado em UF diversa daquela onde esteja inscrito o prestador",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "1933",
+    "descricao": "Aquisição de serviço tributado pelo Imposto sobre Serviços de Qualquer Natureza",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "1934",
+    "descricao": "Entrada simbólica de mercadoria recebida p/ depósito fechado ou armazém geral",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "1949",
+    "descricao": "Outra entrada de mercadoria ou prestação de serviço não especificada",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "2101",
+    "descricao": "Compra p/ industrialização ou produção rural",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "2102",
+    "descricao": "Compra p/ comercialização",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "2111",
+    "descricao": "Compra p/ industrialização de mercadoria recebida anteriormente em consignação industrial",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "2113",
+    "descricao": "Compra p/ comercialização, de mercadoria recebida anteriormente em consignação mercantil",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "2116",
+    "descricao": "Compra p/ industrialização ou produção rural originada de encomenda p/ recebimento futuro",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "2117",
+    "descricao": "Compra p/ comercialização originada de encomenda p/ recebimento futuro",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "2118",
+    "descricao": "Compra de mercadoria p/ comercialização pelo adquirente originário, entregue pelo vendedor remetente ao destinatário, em venda à ordem",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "2120",
+    "descricao": "Compra p/ industrialização, em venda à ordem, já recebida do vendedor remetente",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "2121",
+    "descricao": "Compra p/ comercialização, em venda à ordem, já recebida do vendedor remetente",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "2122",
+    "descricao": "Compra p/ industrialização em que a mercadoria foi remetida pelo fornecedor ao industrializador sem transitar pelo estabelecimento adquirente",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "2124",
+    "descricao": "Industrialização efetuada por outra empresa",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "2125",
+    "descricao": "Industrialização efetuada por outra empresa quando a mercadoria remetida p/ utilização no processo de industrialização não transitou pelo estabelecimento adquirente da mercadoria",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "2126",
+    "descricao": "Compra p/ utilização na prestação de serviço sujeita ao ICMS",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "2128",
+    "descricao": "Compra p/ utilização na prestação de serviço sujeita ao ISSQN",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "2151",
+    "descricao": "Transferência p/ industrialização ou produção rural",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "2152",
+    "descricao": "Transferência p/ comercialização",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "2153",
+    "descricao": "Transferência de energia elétrica p/ distribuição",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "2154",
+    "descricao": "Transferência p/ utilização na prestação de serviço",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "2201",
+    "descricao": "Devolução de venda de produção do estabelecimento",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "1"
+  },
+  {
+    "codigo": "2202",
+    "descricao": "Devolução de venda de mercadoria adquirida ou recebida de terceiros",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "1"
+  },
+  {
+    "codigo": "2203",
+    "descricao": "Devolução de venda de produção do estabelecimento destinada à ZFM ou ALC",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "1"
+  },
+  {
+    "codigo": "2204",
+    "descricao": "Devolução de venda de mercadoria adquirida ou recebida de terceiros, destinada à ZFM ou ALC",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "1"
+  },
+  {
+    "codigo": "2205",
+    "descricao": "Anulação de valor relativo à prestação de serviço de comunicação",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "2206",
+    "descricao": "Anulação de valor relativo à prestação de serviço de transporte",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "2207",
+    "descricao": "Anulação de valor relativo à venda de energia elétrica",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "2208",
+    "descricao": "Devolução de produção do estabelecimento, remetida em transferência.",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "1"
+  },
+  {
+    "codigo": "2209",
+    "descricao": "Devolução de mercadoria adquirida ou recebida de terceiros e remetida em transferência",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "1"
+  },
+  {
+    "codigo": "2212",
+    "descricao": "Devolução de venda no mercado interno de mercadoria industrializada e insumo importado sob o Regime Aduaneiro Especial de Entreposto Industrial (Recof-Sped)",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "1"
+  },
+  {
+    "codigo": "2251",
+    "descricao": "Compra de energia elétrica p/ distribuição ou comercialização",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "2252",
+    "descricao": "Compra de energia elétrica por estabelecimento industrial",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "2253",
+    "descricao": "Compra de energia elétrica por estabelecimento comercial",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "2254",
+    "descricao": "Compra de energia elétrica por estabelecimento prestador de serviço de transporte",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "2255",
+    "descricao": "Compra de energia elétrica por estabelecimento prestador de serviço de comunicação",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "2256",
+    "descricao": "Compra de energia elétrica por estabelecimento de produtor rural",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "2257",
+    "descricao": "Compra de energia elétrica p/ consumo por demanda contratada",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "2301",
+    "descricao": "Aquisição de serviço de comunicação p/ execução de serviço da mesma natureza",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "2302",
+    "descricao": "Aquisição de serviço de comunicação por estabelecimento industrial",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "2303",
+    "descricao": "Aquisição de serviço de comunicação por estabelecimento comercial",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "2304",
+    "descricao": "Aquisição de serviço de comunicação por estabelecimento de prestador de serviço de transporte",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "2305",
+    "descricao": "Aquisição de serviço de comunicação por estabelecimento de geradora ou de distribuidora de energia elétrica",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "2306",
+    "descricao": "Aquisição de serviço de comunicação por estabelecimento de produtor rural",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "2351",
+    "descricao": "Aquisição de serviço de transporte p/ execução de serviço da mesma natureza",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "2352",
+    "descricao": "Aquisição de serviço de transporte por estabelecimento industrial",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "2353",
+    "descricao": "Aquisição de serviço de transporte por estabelecimento comercial",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "2354",
+    "descricao": "Aquisição de serviço de transporte por estabelecimento de prestador de serviço de comunicação",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "2355",
+    "descricao": "Aquisição de serviço de transporte por estabelecimento de geradora ou de distribuidora de energia elétrica",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "2356",
+    "descricao": "Aquisição de serviço de transporte por estabelecimento de produtor rural",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "2401",
+    "descricao": "Compra p/ industrialização ou produção rural de mercadoria sujeita a ST",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "2403",
+    "descricao": "Compra p/ comercialização em operação com mercadoria sujeita a ST",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "2406",
+    "descricao": "Compra de bem p/ o ativo imobilizado cuja mercadoria está sujeita a ST",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "2407",
+    "descricao": "Compra de mercadoria p/ uso ou consumo cuja mercadoria está sujeita a ST",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "2408",
+    "descricao": "Transferência p/ industrialização ou produção rural de mercadoria sujeita a ST",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "2409",
+    "descricao": "Transferência p/ comercialização em operação com mercadoria sujeita a ST",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "2410",
+    "descricao": "Devolução de venda de produção do estabelecimento, quando o produto sujeito a ST",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "1"
+  },
+  {
+    "codigo": "2411",
+    "descricao": "Devolução de venda de mercadoria adquirida ou recebida de terceiros em operação com mercadoria sujeita a ST",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "1"
+  },
+  {
+    "codigo": "2414",
+    "descricao": "Retorno de produção do estabelecimento, remetida p/ venda fora do estabelecimento, quando o produto sujeito a ST",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "2415",
+    "descricao": "Retorno de mercadoria adquirida ou recebida de terceiros, remetida p/ venda fora do estabelecimento em operação com mercadoria sujeita a ST",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "2501",
+    "descricao": "Entrada de mercadoria recebida com fim específico de exportação",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "2503",
+    "descricao": "Entrada decorrente de devolução de produto industrializado pelo estabelecimento, remetido com fim específico de exportação",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "1"
+  },
+  {
+    "codigo": "2504",
+    "descricao": "Entrada decorrente de devolução de mercadoria remetida com fim específico de exportação, adquirida ou recebida de terceiros",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "1"
+  },
+  {
+    "codigo": "2505",
+    "descricao": "Entrada decorrente de devolução simbólica de mercadoria remetida p/ formação de lote de exportação, de produto industrializado ou produzido pelo próprio estabelecimento.",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "1"
+  },
+  {
+    "codigo": "2506",
+    "descricao": "Entrada decorrente de devolução simbólica de mercadoria, adquirida ou recebida de terceiros, remetida p/ formação de lote de exportação.",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "1"
+  },
+  {
+    "codigo": "2551",
+    "descricao": "Compra de bem p/ o ativo imobilizado",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "2552",
+    "descricao": "Transferência de bem do ativo imobilizado",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "2553",
+    "descricao": "Devolução de venda de bem do ativo imobilizado",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "1"
+  },
+  {
+    "codigo": "2554",
+    "descricao": "Retorno de bem do ativo imobilizado remetido p/ uso fora do estabelecimento",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "2555",
+    "descricao": "Entrada de bem do ativo imobilizado de terceiro, remetido p/ uso no estabelecimento",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "2556",
+    "descricao": "Compra de material p/ uso ou consumo",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "2557",
+    "descricao": "Transferência de material p/ uso ou consumo",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "2603",
+    "descricao": "Ressarcimento de ICMS retido por substituição tributária",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "2651",
+    "descricao": "Compra de combustível ou lubrificante p/ industrialização subseqüente",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "2652",
+    "descricao": "Compra de combustível ou lubrificante p/ comercialização",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "2652",
+    "descricao": "Compra de combustível ou lubrificante p/ comercialização",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "2653",
+    "descricao": "Compra de combustível ou lubrificante por consumidor ou usuário final",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "2658",
+    "descricao": "Transferência de combustível ou lubrificante p/ industrialização",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "2659",
+    "descricao": "Transferência de combustível ou lubrificante p/ comercialização ",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "2660",
+    "descricao": "Devolução de venda de combustível ou lubrificante destinados à industrialização subseqüente",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "1"
+  },
+  {
+    "codigo": "2661",
+    "descricao": "Devolução de venda de combustível ou lubrificante destinados à comercialização",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "1"
+  },
+  {
+    "codigo": "2662",
+    "descricao": "Devolução de venda de combustível ou lubrificante destinados a consumidor ou usuário final",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "1"
+  },
+  {
+    "codigo": "2663",
+    "descricao": "Entrada de combustível ou lubrificante p/ armazenagem",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "2664",
+    "descricao": "Retorno de combustível ou lubrificante remetidos p/ armazenagem",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "2901",
+    "descricao": "Entrada p/ industrialização por encomenda",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "2902",
+    "descricao": "Retorno de mercadoria remetida p/ industrialização por encomenda",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "2903",
+    "descricao": "Entrada de mercadoria remetida p/ industrialização e não aplicada no referido processo",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "2904",
+    "descricao": "Retorno de remessa p/ venda fora do estabelecimento",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "2905",
+    "descricao": "Entrada de mercadoria recebida p/ depósito em depósito fechado ou armazém geral",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "2906",
+    "descricao": "Retorno de mercadoria remetida p/ depósito fechado ou armazém geral",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "2907",
+    "descricao": "Retorno simbólico de mercadoria remetida p/ depósito fechado ou armazém geral",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "2908",
+    "descricao": "Entrada de bem por conta de contrato de comodato",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "2909",
+    "descricao": "Retorno de bem remetido por conta de contrato de comodato",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "2910",
+    "descricao": "Entrada de bonificação, doação ou brinde",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "2911",
+    "descricao": "Entrada de amostra grátis",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "2912",
+    "descricao": "Entrada de mercadoria ou bem recebido p/ demonstração",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "2913",
+    "descricao": "Retorno de mercadoria ou bem remetido p/ demonstração",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "2914",
+    "descricao": "Retorno de mercadoria ou bem remetido p/ exposição ou feira",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "2915",
+    "descricao": "Entrada de mercadoria ou bem recebido p/ conserto ou reparo",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "2916",
+    "descricao": "Retorno de mercadoria ou bem remetido p/ conserto ou reparo",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "2917",
+    "descricao": "Entrada de mercadoria recebida em consignação mercantil ou industrial",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "2918",
+    "descricao": "Devolução de mercadoria remetida em consignação mercantil ou industrial",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "1"
+  },
+  {
+    "codigo": "2919",
+    "descricao": "Devolução simbólica de mercadoria vendida ou utilizada em processo industrial, remetida anteriormente em consignação mercantil ou industrial",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "1"
+  },
+  {
+    "codigo": "2920",
+    "descricao": "Entrada de vasilhame ou sacaria",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "2921",
+    "descricao": "Retorno de vasilhame ou sacaria",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "2922",
+    "descricao": "Lançamento efetuado a título de simples faturamento decorrente de compra p/ recebimento futuro",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "2923",
+    "descricao": "Entrada de mercadoria recebida do vendedor remetente, em venda à ordem",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "2924",
+    "descricao": "Entrada p/ industrialização por conta e ordem do adquirente da mercadoria, quando esta não transitar pelo estabelecimento do adquirente",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "2925",
+    "descricao": "Retorno de mercadoria remetida p/ industrialização por conta e ordem do adquirente da mercadoria, quando esta não transitar pelo estabelecimento do adquirente",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "2931",
+    "descricao": "Lançamento efetuado pelo tomador do serviço de transporte, quando a responsabilidade de retenção do imposto for atribuída ao remetente ou alienante da mercadoria, pelo serviço de transporte realizado por transportador autônomo ou por transportador não-inscrito na UF onde se tenha iniciado o serviço  ",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "2932",
+    "descricao": "Aquisição de serviço de transporte iniciado em UF diversa daquela onde esteja inscrito o prestador ",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "2933",
+    "descricao": "Aquisição de serviço tributado pelo Imposto Sobre Serviços de Qualquer Natureza",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "2934",
+    "descricao": "Entrada simbólica de mercadoria recebida p/ depósito fechado ou armazém geral",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "2949",
+    "descricao": "Outra entrada de mercadoria ou prestação de serviço não especificado",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "3101",
+    "descricao": "Compra p/ industrialização ou produção rural",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "3102",
+    "descricao": "Compra p/ comercialização",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "3126",
+    "descricao": "Compra p/ utilização na prestação de serviço sujeita ao ICMS",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "3127",
+    "descricao": "Compra p/ industrialização sob o regime de drawback ",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "3128",
+    "descricao": "Compra p/ utilização na prestação de serviço sujeita ao ISSQN",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "3129",
+    "descricao": "Compra para industrialização sob o Regime Aduaneiro Especial de Entreposto Industrial (Recof-Sped)",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "3201",
+    "descricao": "Devolução de venda de produção do estabelecimento",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "1"
+  },
+  {
+    "codigo": "3202",
+    "descricao": "Devolução de venda de mercadoria adquirida ou recebida de terceiros",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "1"
+  },
+  {
+    "codigo": "3205",
+    "descricao": "Anulação de valor relativo à prestação de serviço de comunicação",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "3206",
+    "descricao": "Anulação de valor relativo à prestação de serviço de transporte",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "3207",
+    "descricao": "Anulação de valor relativo à venda de energia elétrica",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "3211",
+    "descricao": "Devolução de venda de produção do estabelecimento sob o regime de drawback ",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "1"
+  },
+  {
+    "codigo": "3212",
+    "descricao": "Devolução de venda no mercado externo de mercadoria industrializada sob o Regime Aduaneiro Especial de Entreposto Industrial (Recof-Sped)",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "1"
+  },
+  {
+    "codigo": "3251",
+    "descricao": "Compra de energia elétrica p/ distribuição ou comercialização",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "3301",
+    "descricao": "Aquisição de serviço de comunicação p/ execução de serviço da mesma natureza",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "3351",
+    "descricao": "Aquisição de serviço de transporte p/ execução de serviço da mesma natureza",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "3352",
+    "descricao": "Aquisição de serviço de transporte por estabelecimento industrial",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "3353",
+    "descricao": "Aquisição de serviço de transporte por estabelecimento comercial",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "3354",
+    "descricao": "Aquisição de serviço de transporte por estabelecimento de prestador de serviço de comunicação",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "3355",
+    "descricao": "Aquisição de serviço de transporte por estabelecimento de geradora ou de distribuidora de energia elétrica",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "3356",
+    "descricao": "Aquisição de serviço de transporte por estabelecimento de produtor rural",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "3503",
+    "descricao": "Devolução de mercadoria exportada que tenha sido recebida com fim específico de exportação",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "1"
+  },
+  {
+    "codigo": "3551",
+    "descricao": "Compra de bem p/ o ativo imobilizado",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "3553",
+    "descricao": "Devolução de venda de bem do ativo imobilizado",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "1"
+  },
+  {
+    "codigo": "3556",
+    "descricao": "Compra de material p/ uso ou consumo",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "3651",
+    "descricao": "Compra de combustível ou lubrificante p/ industrialização subseqüente",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "3652",
+    "descricao": "Compra de combustível ou lubrificante p/ comercialização",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "3653",
+    "descricao": "Compra de combustível ou lubrificante por consumidor ou usuário final",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "3930",
+    "descricao": "Lançamento efetuado a título de entrada de bem sob amparo de regime especial aduaneiro de admissão temporária",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "3949",
+    "descricao": "Outra entrada de mercadoria ou prestação de serviço não especificado",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "5101",
+    "descricao": "Venda de produção do estabelecimento",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "5102",
+    "descricao": "Venda de mercadoria adquirida ou recebida de terceiros",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "5103",
+    "descricao": "Venda de produção do estabelecimento efetuada fora do estabelecimento",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "5104",
+    "descricao": "Venda de mercadoria adquirida ou recebida de terceiros, efetuada fora do estabelecimento",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "5105",
+    "descricao": "Venda de produção do estabelecimento que não deva por ele transitar",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "5106",
+    "descricao": "Venda de mercadoria adquirida ou recebida de terceiros, que não deva por ele transitar ",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "5109",
+    "descricao": "Venda de produção do estabelecimento destinada à ZFM ou ALC",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "5110",
+    "descricao": "Venda de mercadoria, adquirida ou recebida de terceiros, destinada à ZFM ou ALC",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "5111",
+    "descricao": "Venda de produção do estabelecimento remetida anteriormente em consignação industrial",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "5112",
+    "descricao": "Venda de mercadoria adquirida ou recebida de terceiros remetida anteriormente em consignação industrial",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "5113",
+    "descricao": "Venda de produção do estabelecimento remetida anteriormente em consignação mercantil",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "5114",
+    "descricao": "Venda de mercadoria adquirida ou recebida de terceiros remetida anteriormente em consignação mercantil",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "5115",
+    "descricao": "Venda de mercadoria adquirida ou recebida de terceiros, recebida anteriormente em consignação mercantil",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "5116",
+    "descricao": "Venda de produção do estabelecimento originada de encomenda p/ entrega futura",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "5117",
+    "descricao": "Venda de mercadoria adquirida ou recebida de terceiros, originada de encomenda p/ entrega futura",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "5118",
+    "descricao": "Venda de produção do estabelecimento entregue ao destinatário por conta e ordem do adquirente originário, em venda à ordem",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "5119",
+    "descricao": "Venda de mercadoria adquirida ou recebida de terceiros entregue ao destinatário por conta e ordem do adquirente originário, em venda à ordem",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "5120",
+    "descricao": "Venda de mercadoria adquirida ou recebida de terceiros entregue ao destinatário pelo vendedor remetente, em venda à ordem",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "5122",
+    "descricao": "Venda de produção do estabelecimento remetida p/ industrialização, por conta e ordem do adquirente, sem transitar pelo estabelecimento do adquirente",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "5123",
+    "descricao": "Venda de mercadoria adquirida ou recebida de terceiros remetida p/ industrialização, por conta e ordem do adquirente, sem transitar pelo estabelecimento do adquirente",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "5124",
+    "descricao": "Industrialização efetuada p/ outra empresa",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "5125",
+    "descricao": "Industrialização efetuada p/ outra empresa quando a mercadoria recebida p/ utilização no processo de industrialização não transitar pelo estabelecimento adquirente da mercadoria",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "5129",
+    "descricao": "Venda de insumo importado e de mercadoria industrializada sob o amparo do Regime Aduaneiro Especial de Entreposto Industrial (Recof-Sped)",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "5151",
+    "descricao": "",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "5152",
+    "descricao": "Transferência de mercadoria adquirida ou recebida de terceiros",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "5153",
+    "descricao": "Transferência de energia elétrica",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "5155",
+    "descricao": "Transferência de produção do estabelecimento, que não deva por ele transitar",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "5156",
+    "descricao": "Transferência de mercadoria adquirida ou recebida de terceiros, que não deva por ele transitar",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "5201",
+    "descricao": "Devolução de compra p/ industrialização ou produção rural",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "1"
+  },
+  {
+    "codigo": "5202",
+    "descricao": "Devolução de compra p/ comercialização",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "1"
+  },
+  {
+    "codigo": "5205",
+    "descricao": "Anulação de valor relativo a aquisição de serviço de comunicação",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "5206",
+    "descricao": "Anulação de valor relativo a aquisição de serviço de transporte",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "5207",
+    "descricao": "Anulação de valor relativo à compra de energia elétrica",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "5208",
+    "descricao": "Devolução de mercadoria recebida em transferência p/ industrialização ou produção rural ",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "1"
+  },
+  {
+    "codigo": "5209",
+    "descricao": "Devolução de mercadoria recebida em transferência p/ comercialização",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "1"
+  },
+  {
+    "codigo": "5210",
+    "descricao": "Devolução de compra p/ utilização na prestação de serviço",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "1"
+  },
+  {
+    "codigo": "5251",
+    "descricao": "Venda de energia elétrica p/ distribuição ou comercialização",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "5252",
+    "descricao": "Venda de energia elétrica p/ estabelecimento industrial",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "5253",
+    "descricao": "Venda de energia elétrica p/ estabelecimento comercial",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "5254",
+    "descricao": "Venda de energia elétrica p/ estabelecimento prestador de serviço de transporte",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "5255",
+    "descricao": "Venda de energia elétrica p/ estabelecimento prestador de serviço de comunicação",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "5256",
+    "descricao": "Venda de energia elétrica p/ estabelecimento de produtor rural",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "5257",
+    "descricao": "Venda de energia elétrica p/ consumo por demanda contratada",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "5258",
+    "descricao": "Venda de energia elétrica a não contribuinte",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "5301",
+    "descricao": "Prestação de serviço de comunicação p/ execução de serviço da mesma natureza",
+    "ind_nfe": "0",
+    "ind_comunica": "1",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "5302",
+    "descricao": "Prestação de serviço de comunicação a estabelecimento industrial",
+    "ind_nfe": "0",
+    "ind_comunica": "1",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "5303",
+    "descricao": "Prestação de serviço de comunicação a estabelecimento comercial",
+    "ind_nfe": "0",
+    "ind_comunica": "1",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "5304",
+    "descricao": "Prestação de serviço de comunicação a estabelecimento de prestador de serviço de transporte",
+    "ind_nfe": "0",
+    "ind_comunica": "1",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "5305",
+    "descricao": "Prestação de serviço de comunicação a estabelecimento de geradora ou de distribuidora de energia elétrica",
+    "ind_nfe": "0",
+    "ind_comunica": "1",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "5306",
+    "descricao": "Prestação de serviço de comunicação a estabelecimento de produtor rural",
+    "ind_nfe": "0",
+    "ind_comunica": "1",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "5307",
+    "descricao": "Prestação de serviço de comunicação a não contribuinte",
+    "ind_nfe": "0",
+    "ind_comunica": "1",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "5351",
+    "descricao": "Prestação de serviço de transporte p/ execução de serviço da mesma natureza",
+    "ind_nfe": "0",
+    "ind_comunica": "0",
+    "ind_transp": "1",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "5352",
+    "descricao": "Prestação de serviço de transporte a estabelecimento industrial",
+    "ind_nfe": "0",
+    "ind_comunica": "0",
+    "ind_transp": "1",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "5353",
+    "descricao": "Prestação de serviço de transporte a estabelecimento comercial",
+    "ind_nfe": "0",
+    "ind_comunica": "0",
+    "ind_transp": "1",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "5354",
+    "descricao": "Prestação de serviço de transporte a estabelecimento de prestador de serviço de comunicação",
+    "ind_nfe": "0",
+    "ind_comunica": "0",
+    "ind_transp": "1",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "5355",
+    "descricao": "Prestação de serviço de transporte a estabelecimento de geradora ou de distribuidora de energia elétrica",
+    "ind_nfe": "0",
+    "ind_comunica": "0",
+    "ind_transp": "1",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "5356",
+    "descricao": "Prestação de serviço de transporte a estabelecimento de produtor rural",
+    "ind_nfe": "0",
+    "ind_comunica": "0",
+    "ind_transp": "1",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "5357",
+    "descricao": "Prestação de serviço de transporte a não contribuinte",
+    "ind_nfe": "0",
+    "ind_comunica": "0",
+    "ind_transp": "1",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "5359",
+    "descricao": "Prestação de serviço de transporte a contribuinte ou a não-contribuinte, quando a mercadoria transportada esteja dispensada de emissão de Nota Fiscal  ",
+    "ind_nfe": "0",
+    "ind_comunica": "0",
+    "ind_transp": "1",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "5360",
+    "descricao": "Prestação de serviço de transporte a contribuinte-substituto em relação ao serviço de transporte",
+    "ind_nfe": "0",
+    "ind_comunica": "0",
+    "ind_transp": "1",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "5401",
+    "descricao": "Venda de produção do estabelecimento quando o produto esteja sujeito a ST",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "5402",
+    "descricao": "Venda de produção do estabelecimento de produto sujeito a ST, em operação entre contribuintes substitutos do mesmo produto",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "5403",
+    "descricao": "Venda de mercadoria, adquirida ou recebida de terceiros, sujeita a ST, na condição de contribuinte-substituto",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "5405",
+    "descricao": "Venda de mercadoria, adquirida ou recebida de terceiros, sujeita a ST, na condição de contribuinte-substituído",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "5408",
+    "descricao": "Transferência de produção do estabelecimento quando o produto sujeito a ST",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "5409",
+    "descricao": "Transferência de mercadoria adquirida ou recebida de terceiros em operação com mercadoria sujeita a ST",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "5410",
+    "descricao": "Devolução de compra p/ industrialização de mercadoria sujeita a ST",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "1"
+  },
+  {
+    "codigo": "5411",
+    "descricao": "Devolução de compra p/ comercialização em operação com mercadoria sujeita a ST",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "1"
+  },
+  {
+    "codigo": "5412",
+    "descricao": "Devolução de bem do ativo imobilizado, em operação com mercadoria sujeita a ST",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "1"
+  },
+  {
+    "codigo": "5413",
+    "descricao": "Devolução de mercadoria destinada ao uso ou consumo, em operação com mercadoria sujeita a ST.",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "1"
+  },
+  {
+    "codigo": "5414",
+    "descricao": "Remessa de produção do estabelecimento p/ venda fora do estabelecimento, quando o produto sujeito a ST",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "5415",
+    "descricao": "Remessa de mercadoria adquirida ou recebida de terceiros p/ venda fora do estabelecimento, em operação com mercadoria sujeita a ST",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "5451",
+    "descricao": "Remessa de animal e de insumo p/ estabelecimento produtor",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "5501",
+    "descricao": "Remessa de produção do estabelecimento, com fim específico de exportação",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "5502",
+    "descricao": "Remessa de mercadoria adquirida ou recebida de terceiros, com fim específico de exportação",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "5503",
+    "descricao": "Devolução de mercadoria recebida com fim específico de exportação",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "1"
+  },
+  {
+    "codigo": "5504",
+    "descricao": "Remessa de mercadoria p/ formação de lote de exportação, de produto industrializado ou produzido pelo próprio estabelecimento.",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "5505",
+    "descricao": "Remessa de mercadoria, adquirida ou recebida de terceiros, p/ formação de lote de exportação.",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "5551",
+    "descricao": "Venda de bem do ativo imobilizado",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "5552",
+    "descricao": "Transferência de bem do ativo imobilizado",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "5553",
+    "descricao": "Devolução de compra de bem p/ o ativo imobilizado",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "1"
+  },
+  {
+    "codigo": "5554",
+    "descricao": "Remessa de bem do ativo imobilizado p/ uso fora do estabelecimento",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "5555",
+    "descricao": "Devolução de bem do ativo imobilizado de terceiro, recebido p/ uso no estabelecimento",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "1"
+  },
+  {
+    "codigo": "5556",
+    "descricao": "Devolução de compra de material de uso ou consumo",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "1"
+  },
+  {
+    "codigo": "5557",
+    "descricao": "Transferência de material de uso ou consumo",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "5601",
+    "descricao": "Transferência de crédito de ICMS acumulado",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "5602",
+    "descricao": "Transferência de saldo credor do ICMS, p/ outro estabelecimento da mesma empresa, destinado à compensação de saldo devedor do ICMS",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "5603",
+    "descricao": "Ressarcimento de ICMS retido por substituição tributária",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "5605",
+    "descricao": "Transferência de saldo devedor do ICMS de outro estabelecimento da mesma empresa  ",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "5606",
+    "descricao": "Utilização de saldo credor do ICMS p/ extinção por compensação de débitos fiscais",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "5651",
+    "descricao": "Venda de combustível ou lubrificante de produção do estabelecimento destinados à industrialização subseqüente",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "5652",
+    "descricao": "Venda de combustível ou lubrificante, de produção do estabelecimento, destinados à comercialização",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "5653",
+    "descricao": "Venda de combustível ou lubrificante, de produção do estabelecimento, destinados a consumidor ou usuário final",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "5654",
+    "descricao": "Venda de combustível ou lubrificante, adquiridos ou recebidos de terceiros, destinados à industrialização subseqüente",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "5655",
+    "descricao": "Venda de combustível ou lubrificante, adquiridos ou recebidos de terceiros, destinados à comercialização",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "5656",
+    "descricao": "Venda de combustível ou lubrificante, adquiridos ou recebidos de terceiros, destinados a consumidor ou usuário final",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "5657",
+    "descricao": "Remessa de combustível ou lubrificante, adquiridos ou recebidos de terceiros, p/ venda fora do estabelecimento",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "5658",
+    "descricao": "Transferência de combustível ou lubrificante de produção do estabelecimento",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "5659",
+    "descricao": "Transferência de combustível ou lubrificante adquiridos ou recebidos de terceiros",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "5660",
+    "descricao": "Devolução de compra de combustível ou lubrificante adquiridos p/ industrialização subseqüente",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "1"
+  },
+  {
+    "codigo": "5661",
+    "descricao": "Devolução de compra de combustível ou lubrificante adquiridos p/ comercialização",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "1"
+  },
+  {
+    "codigo": "5662",
+    "descricao": "Devolução de compra de combustível ou lubrificante adquiridos por consumidor ou usuário final",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "1"
+  },
+  {
+    "codigo": "5663",
+    "descricao": "Remessa p/ armazenagem de combustível ou lubrificante",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "5664",
+    "descricao": "Retorno de combustível ou lubrificante recebidos p/ armazenagem",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "5665",
+    "descricao": "Retorno simbólico de combustível ou lubrificante recebidos p/ armazenagem",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "5666",
+    "descricao": "Remessa, por conta e ordem de terceiros, de combustível ou lubrificante recebidos p/ armazenagem",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "5667",
+    "descricao": "Venda de combustível ou lubrificante a consumidor ou usuário final estabelecido em outra UF",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "5901",
+    "descricao": "Remessa p/ industrialização por encomenda",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "5902",
+    "descricao": "Retorno de mercadoria utilizada na industrialização por encomenda",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "5903",
+    "descricao": "Retorno de mercadoria recebida p/ industrialização e não aplicada no referido processo",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "5904",
+    "descricao": "Remessa p/ venda fora do estabelecimento",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "5905",
+    "descricao": "Remessa p/ depósito fechado ou armazém geral",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "5906",
+    "descricao": "Retorno de mercadoria depositada em depósito fechado ou armazém geral",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "5907",
+    "descricao": "Retorno simbólico de mercadoria depositada em depósito fechado ou armazém geral",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "5908",
+    "descricao": "Remessa de bem por conta de contrato de comodato",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "5909",
+    "descricao": "Retorno de bem recebido por conta de contrato de comodato",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "5910",
+    "descricao": "Remessa em bonificação, doação ou brinde",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "5911",
+    "descricao": "Remessa de amostra grátis",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "5912",
+    "descricao": "Remessa de mercadoria ou bem p/ demonstração",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "5913",
+    "descricao": "Retorno de mercadoria ou bem recebido p/ demonstração",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "5914",
+    "descricao": "Remessa de mercadoria ou bem p/ exposição ou feira",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "5915",
+    "descricao": "Remessa de mercadoria ou bem p/ conserto ou reparo",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "5916",
+    "descricao": "Retorno de mercadoria ou bem recebido p/ conserto ou reparo",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "5917",
+    "descricao": "Remessa de mercadoria em consignação mercantil ou industrial",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "5918",
+    "descricao": "Devolução de mercadoria recebida em consignação mercantil ou industrial",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "1"
+  },
+  {
+    "codigo": "5919",
+    "descricao": "Devolução simbólica de mercadoria vendida ou utilizada em processo industrial, recebida anteriormente em consignação mercantil ou industrial",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "1"
+  },
+  {
+    "codigo": "5920",
+    "descricao": "Remessa de vasilhame ou sacaria",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "5921",
+    "descricao": "Devolução de vasilhame ou sacaria",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "1"
+  },
+  {
+    "codigo": "5922",
+    "descricao": "Lançamento efetuado a título de simples faturamento decorrente de venda p/ entrega futura",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "5923",
+    "descricao": "Remessa de mercadoria por conta e ordem de terceiros, em venda à ordem ou em operações com armazém geral ou depósito fechado.",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "5924",
+    "descricao": "Remessa p/ industrialização por conta e ordem do adquirente da mercadoria, quando esta não transitar pelo estabelecimento do adquirente",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "5925",
+    "descricao": "Retorno de mercadoria recebida p/ industrialização por conta e ordem do adquirente da mercadoria, quando aquela não transitar pelo estabelecimento do adquirente",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "5926",
+    "descricao": "Lançamento efetuado a título de reclassificação de mercadoria decorrente de formação de kit ou de sua desagregação",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "5927",
+    "descricao": "Lançamento efetuado a título de baixa de estoque decorrente de perda, roubo ou deterioração",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "5928",
+    "descricao": "Lançamento efetuado a título de baixa de estoque decorrente do encerramento da atividade da empresa",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "5929",
+    "descricao": "Lançamento efetuado em decorrência de emissão de documento fiscal relativo a operação ou prestação também registrada em equipamento Emissor de Cupom Fiscal - ECF",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "5931",
+    "descricao": "Lançamento efetuado em decorrência da responsabilidade de retenção do imposto por substituição tributária, atribuída ao remetente ou alienante da mercadoria, pelo serviço de transporte realizado por transportador autônomo ou por transportador não inscrito na UF onde iniciado o serviço",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "1",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "5932",
+    "descricao": "Prestação de serviço de transporte iniciada em UF diversa daquela onde inscrito o prestador",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "1",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "5933",
+    "descricao": "Prestação de serviço tributado pelo Imposto Sobre Serviços de Qualquer Natureza",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "5934",
+    "descricao": "Remessa simbólica de mercadoria depositada em armazém geral ou depósito fechado.",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "5949",
+    "descricao": "Outra saída de mercadoria ou prestação de serviço não especificado",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "6101",
+    "descricao": "Venda de produção do estabelecimento",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "6102",
+    "descricao": "Venda de mercadoria adquirida ou recebida de terceiros",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "6103",
+    "descricao": "Venda de produção do estabelecimento, efetuada fora do estabelecimento",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "6104",
+    "descricao": "Venda de mercadoria adquirida ou recebida de terceiros, efetuada fora do estabelecimento",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "6105",
+    "descricao": "Venda de produção do estabelecimento que não deva por ele transitar",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "6106",
+    "descricao": "Venda de mercadoria adquirida ou recebida de terceiros, que não deva por ele transitar",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "6107",
+    "descricao": "Venda de produção do estabelecimento, destinada a não contribuinte",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "6108",
+    "descricao": "Venda de mercadoria adquirida ou recebida de terceiros, destinada a não contribuinte",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "6109",
+    "descricao": "Venda de produção do estabelecimento destinada à ZFM ou ALC",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "6110",
+    "descricao": "Venda de mercadoria, adquirida ou recebida de terceiros, destinada à ZFM ou ALC",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "6111",
+    "descricao": "Venda de produção do estabelecimento remetida anteriormente em consignação industrial",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "6112",
+    "descricao": "Venda de mercadoria adquirida ou recebida de Terceiros remetida anteriormente em consignação industrial",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "6113",
+    "descricao": "Venda de produção do estabelecimento remetida anteriormente em consignação mercantil",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "6114",
+    "descricao": "Venda de mercadoria adquirida ou recebida de terceiros remetida anteriormente em consignação mercantil",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "6115",
+    "descricao": "Venda de mercadoria adquirida ou recebida de terceiros, recebida anteriormente em consignação mercantil",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "6116",
+    "descricao": "Venda de produção do estabelecimento originada de encomenda p/ entrega futura",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "6117",
+    "descricao": "Venda de mercadoria adquirida ou recebida de terceiros, originada de encomenda p/ entrega futura",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "6118",
+    "descricao": "Venda de produção do estabelecimento entregue ao destinatário por conta e ordem do adquirente originário, em venda à ordem",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "6119",
+    "descricao": "Venda de mercadoria adquirida ou recebida de terceiros entregue ao destinatário por conta e ordem do adquirente originário, em venda à ordem",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "6120",
+    "descricao": "Venda de mercadoria adquirida ou recebida de terceiros entregue ao destinatário pelo vendedor remetente, em venda à ordem",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "6122",
+    "descricao": "Venda de produção do estabelecimento remetida p/ industrialização, por conta e ordem do adquirente, sem transitar pelo estabelecimento do adquirente",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "6123",
+    "descricao": "Venda de mercadoria adquirida ou recebida de terceiros remetida p/ industrialização, por conta e ordem do adquirente, sem transitar pelo estabelecimento do adquirente",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "6124",
+    "descricao": "Industrialização efetuada p/ outra empresa",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "6125",
+    "descricao": "Industrialização efetuada p/ outra empresa quando a mercadoria recebida p/ utilização no processo de industrialização não transitar pelo estabelecimento adquirente da mercadoria",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "6129",
+    "descricao": "Venda de insumo importado e de mercadoria industrializada sob o amparo do Regime Aduaneiro Especial de Entreposto Industrial (Recof-Sped)",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "6151",
+    "descricao": "Transferência de produção do estabelecimento",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "6152",
+    "descricao": "Transferência de mercadoria adquirida ou recebida de terceiros",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "6153",
+    "descricao": "Transferência de energia elétrica",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "6155",
+    "descricao": "Transferência de produção do estabelecimento, que não deva por ele transitar",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "6156",
+    "descricao": "Transferência de mercadoria adquirida ou recebida de terceiros, que não deva por ele transitar",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "6201",
+    "descricao": "Devolução de compra p/ industrialização ou produção rural",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "1"
+  },
+  {
+    "codigo": "6202",
+    "descricao": "Devolução de compra p/ comercialização",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "1"
+  },
+  {
+    "codigo": "6205",
+    "descricao": "Anulação de valor relativo a aquisição de serviço de comunicação",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "6206",
+    "descricao": "Anulação de valor relativo a aquisição de serviço de transporte",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "6207",
+    "descricao": "Anulação de valor relativo à compra de energia elétrica",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "6208",
+    "descricao": "Devolução de mercadoria recebida em transferência p/ industrialização ou produção rural ",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "1"
+  },
+  {
+    "codigo": "6209",
+    "descricao": "Devolução de mercadoria recebida em transferência p/ comercialização",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "1"
+  },
+  {
+    "codigo": "6210",
+    "descricao": "Devolução de compra p/ utilização na prestação de serviço",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "1"
+  },
+  {
+    "codigo": "6251",
+    "descricao": "Venda de energia elétrica p/ distribuição ou comercialização",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "6252",
+    "descricao": "Venda de energia elétrica p/ estabelecimento industrial",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "6253",
+    "descricao": "Venda de energia elétrica p/ estabelecimento comercial",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "6254",
+    "descricao": "Venda de energia elétrica p/ estabelecimento prestador de serviço de transporte",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "6255",
+    "descricao": "Venda de energia elétrica p/ estabelecimento prestador de serviço de comunicação",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "6256",
+    "descricao": "Venda de energia elétrica p/ estabelecimento de produtor rural",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "6257",
+    "descricao": "Venda de energia elétrica p/ consumo por demanda contratada",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "6258",
+    "descricao": "Venda de energia elétrica a não contribuinte",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "6301",
+    "descricao": "Prestação de serviço de comunicação p/ execução de serviço da mesma natureza",
+    "ind_nfe": "0",
+    "ind_comunica": "1",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "6302",
+    "descricao": "Prestação de serviço de comunicação a estabelecimento industrial",
+    "ind_nfe": "0",
+    "ind_comunica": "1",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "6303",
+    "descricao": "Prestação de serviço de comunicação a estabelecimento comercial",
+    "ind_nfe": "0",
+    "ind_comunica": "1",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "6304",
+    "descricao": "Prestação de serviço de comunicação a estabelecimento de prestador de serviço de transporte",
+    "ind_nfe": "0",
+    "ind_comunica": "1",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "6305",
+    "descricao": "Prestação de serviço de comunicação a estabelecimento de geradora ou de distribuidora de energia elétrica",
+    "ind_nfe": "0",
+    "ind_comunica": "1",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "6306",
+    "descricao": "Prestação de serviço de comunicação a estabelecimento de produtor rural",
+    "ind_nfe": "0",
+    "ind_comunica": "1",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "6307",
+    "descricao": "Prestação de serviço de comunicação a não contribuinte",
+    "ind_nfe": "0",
+    "ind_comunica": "1",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "6351",
+    "descricao": "Prestação de serviço de transporte p/ execução de serviço da mesma natureza",
+    "ind_nfe": "0",
+    "ind_comunica": "0",
+    "ind_transp": "1",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "6352",
+    "descricao": "Prestação de serviço de transporte a estabelecimento industrial",
+    "ind_nfe": "0",
+    "ind_comunica": "0",
+    "ind_transp": "1",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "6353",
+    "descricao": "Prestação de serviço de transporte a estabelecimento comercial",
+    "ind_nfe": "0",
+    "ind_comunica": "0",
+    "ind_transp": "1",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "6354",
+    "descricao": "Prestação de serviço de transporte a estabelecimento de prestador de serviço de comunicação",
+    "ind_nfe": "0",
+    "ind_comunica": "0",
+    "ind_transp": "1",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "6355",
+    "descricao": "Prestação de serviço de transporte a estabelecimento de geradora ou de distribuidora de energia elétrica",
+    "ind_nfe": "0",
+    "ind_comunica": "0",
+    "ind_transp": "1",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "6356",
+    "descricao": "Prestação de serviço de transporte a estabelecimento de produtor rural",
+    "ind_nfe": "0",
+    "ind_comunica": "0",
+    "ind_transp": "1",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "6357",
+    "descricao": "Prestação de serviço de transporte a não contribuinte",
+    "ind_nfe": "0",
+    "ind_comunica": "0",
+    "ind_transp": "1",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "6359",
+    "descricao": "Prestação de serviço de transporte a contribuinte ou a não-contribuinte, quando a mercadoria transportada esteja dispensada de emissão de Nota Fiscal  ",
+    "ind_nfe": "0",
+    "ind_comunica": "0",
+    "ind_transp": "1",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "6360",
+    "descricao": "Prestação de serviço de transporte a contribuinte substituto em relação ao serviço de transporte  ",
+    "ind_nfe": "0",
+    "ind_comunica": "0",
+    "ind_transp": "1",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "6401",
+    "descricao": "Venda de produção do estabelecimento quando o produto sujeito a ST",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "6402",
+    "descricao": "Venda de produção do estabelecimento de produto sujeito a ST, em operação entre contribuintes substitutos do mesmo produto",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "6403",
+    "descricao": "Venda de mercadoria adquirida ou recebida de terceiros em operação com mercadoria sujeita a ST, na condição de contribuinte substituto",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "6404",
+    "descricao": "Venda de mercadoria sujeita a ST, cujo imposto já tenha sido retido anteriormente",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "6408",
+    "descricao": "Transferência de produção do estabelecimento quando o produto sujeito a ST",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "6409",
+    "descricao": "Transferência de mercadoria adquirida ou recebida de terceiros, sujeita a ST",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "6410",
+    "descricao": "Devolução de compra p/ industrialização ou ptrodução rural quando a mercadoria sujeita a ST",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "1"
+  },
+  {
+    "codigo": "6411",
+    "descricao": "Devolução de compra p/ comercialização em operação com mercadoria sujeita a ST",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "1"
+  },
+  {
+    "codigo": "6412",
+    "descricao": "Devolução de bem do ativo imobilizado, em operação com mercadoria sujeita a ST",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "1"
+  },
+  {
+    "codigo": "6413",
+    "descricao": "Devolução de mercadoria destinada ao uso ou consumo, em operação com mercadoria sujeita a ST",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "1"
+  },
+  {
+    "codigo": "6414",
+    "descricao": "Remessa de produção do estabelecimento p/ venda fora do estabelecimento, quando o produto sujeito a ST",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "6415",
+    "descricao": "Remessa de mercadoria adquirida ou recebida de terceiros p/ venda fora do estabelecimento, quando a referida ração com mercadoria sujeita a ST",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "6501",
+    "descricao": "Remessa de produção do estabelecimento, com fim específico de exportação",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "6502",
+    "descricao": "Remessa de mercadoria adquirida ou recebida de terceiros, com fim específico de exportação",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "6503",
+    "descricao": "Devolução de mercadoria recebida com fim específico de exportação",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "1"
+  },
+  {
+    "codigo": "6504",
+    "descricao": "Remessa de mercadoria p/ formação de lote de exportação, de produto industrializado ou produzido pelo próprio estabelecimento.",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "6505",
+    "descricao": "Remessa de mercadoria, adquirida ou recebida de terceiros, p/ formação de lote de exportação.",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "6551",
+    "descricao": "Venda de bem do ativo imobilizado",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "6552",
+    "descricao": "Transferência de bem do ativo imobilizado",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "6553",
+    "descricao": "Devolução de compra de bem p/ o ativo imobilizado",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "1"
+  },
+  {
+    "codigo": "6554",
+    "descricao": "Remessa de bem do ativo imobilizado p/ uso fora do estabelecimento",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "6555",
+    "descricao": "Devolução de bem do ativo imobilizado de terceiro, recebido p/ uso no estabelecimento",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "1"
+  },
+  {
+    "codigo": "6556",
+    "descricao": "Devolução de compra de material de uso ou consumo",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "1"
+  },
+  {
+    "codigo": "6557",
+    "descricao": "Transferência de material de uso ou consumo",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "6603",
+    "descricao": "Ressarcimento de ICMS retido por substituição tributária",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "6651",
+    "descricao": "Venda de combustível ou lubrificante, de produção do estabelecimento, destinados à industrialização subseqüente",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "6652",
+    "descricao": "Venda de combustível ou lubrificante, de produção do estabelecimento, destinados à comercialização",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "6653",
+    "descricao": "Venda de combustível ou lubrificante, de produção do estabelecimento, destinados a consumidor ou usuário final ",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "6654",
+    "descricao": "Venda de combustível ou lubrificante, adquiridos ou recebidos de terceiros, destinados à industrialização subseqüente ",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "6655",
+    "descricao": "Venda de combustível ou lubrificante, adquiridos ou recebidos de terceiros, destinados à comercialização",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "6656",
+    "descricao": "Venda de combustível ou lubrificante, adquiridos ou recebidos de terceiros, destinados a consumidor ou usuário final",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "6657",
+    "descricao": "Remessa de combustível ou lubrificante, adquiridos ou recebidos de terceiros, p/ venda fora do estabelecimento",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "6658",
+    "descricao": "Transferência de combustível ou lubrificante de produção do estabelecimento",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "6659",
+    "descricao": "Transferência de combustível ou lubrificante adquiridos ou recebidos de terceiros",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "6660",
+    "descricao": "Devolução de compra de combustível ou lubrificante adquiridos p/ industrialização subseqüente",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "1"
+  },
+  {
+    "codigo": "6661",
+    "descricao": "Devolução de compra de combustível ou lubrificante adquiridos p/ comercialização",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "1"
+  },
+  {
+    "codigo": "6662",
+    "descricao": "Devolução de compra de combustível ou lubrificante adquiridos por consumidor ou usuário final",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "1"
+  },
+  {
+    "codigo": "6663",
+    "descricao": "Remessa p/ armazenagem de combustível ou lubrificante",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "6664",
+    "descricao": "Retorno de combustível ou lubrificante recebidos p/ armazenagem",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "6665",
+    "descricao": "Retorno simbólico de combustível ou lubrificante recebidos p/ armazenagem",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "6666",
+    "descricao": "Remessa, por conta e ordem de terceiros, de combustível ou lubrificante recebidos p/ armazenagem",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "6667",
+    "descricao": "Venda de combustível ou lubrificante a consumidor ou usuário final estabelecido em outra UF diferente da que ocorrer o consumo",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "6901",
+    "descricao": "Remessa p/ industrialização por encomenda",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "6902",
+    "descricao": "Retorno de mercadoria utilizada na industrialização por encomenda",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "6903",
+    "descricao": "Retorno de mercadoria recebida p/ industrialização e não aplicada no referido processo",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "6904",
+    "descricao": "Remessa p/ venda fora do estabelecimento",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "6905",
+    "descricao": "Remessa p/ depósito fechado ou armazém geral",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "6906",
+    "descricao": "Retorno de mercadoria depositada em depósito fechado ou armazém geral",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "6907",
+    "descricao": "Retorno simbólico de mercadoria depositada em depósito fechado ou armazém geral",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "6908",
+    "descricao": "Remessa de bem por conta de contrato de comodato",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "6909",
+    "descricao": "Retorno de bem recebido por conta de contrato de comodato",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "6910",
+    "descricao": "Remessa em bonificação, doação ou brinde",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "6911",
+    "descricao": "Remessa de amostra grátis",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "6912",
+    "descricao": "Remessa de mercadoria ou bem p/ demonstração",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "6913",
+    "descricao": "Retorno de mercadoria ou bem recebido p/ demonstração",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "6914",
+    "descricao": "Remessa de mercadoria ou bem p/ exposição ou feira",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "6915",
+    "descricao": "Remessa de mercadoria ou bem p/ conserto ou reparo",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "6916",
+    "descricao": "Retorno de mercadoria ou bem recebido p/ conserto ou reparo",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "6917",
+    "descricao": "Remessa de mercadoria em consignação mercantil ou industrial",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "6918",
+    "descricao": "Devolução de mercadoria recebida em consignação mercantil ou industrial",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "1"
+  },
+  {
+    "codigo": "6919",
+    "descricao": "Devolução simbólica de mercadoria vendida ou utilizada em processo industrial, recebida anteriormente em consignação mercantil ou industrial",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "1"
+  },
+  {
+    "codigo": "6920",
+    "descricao": "Remessa de vasilhame ou sacaria",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "6921",
+    "descricao": "Devolução de vasilhame ou sacaria",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "1"
+  },
+  {
+    "codigo": "6922",
+    "descricao": "Lançamento efetuado a título de simples faturamento decorrente de venda p/ entrega futura",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "6923",
+    "descricao": "Remessa de mercadoria por conta e ordem de terceiros, em venda à ordem ou em operações com armazém geral ou depósito fechado",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "6924",
+    "descricao": "Remessa p/ industrialização por conta e ordem do adquirente da mercadoria, quando esta não transitar pelo estabelecimento do adquirente",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "6925",
+    "descricao": "Retorno de mercadoria recebida p/ industrialização por conta e ordem do adquirente da mercadoria, quando aquela não transitar pelo estabelecimento do adquirente",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "6929",
+    "descricao": "Lançamento efetuado em decorrência de emissão de documento fiscal relativo a operação ou prestação também registrada em equipamento Emissor de Cupom Fiscal - ECF",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "6931",
+    "descricao": "Lançamento efetuado em decorrência da responsabilidade de retenção do imposto por substituição tributária, atribuída ao remetente ou alienante da mercadoria, pelo serviço de transporte realizado por transportador autônomo ou por transportador não inscrito na UF onde iniciado o serviço",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "1",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "6932",
+    "descricao": "Prestação de serviço de transporte iniciada em UF diversa daquela onde inscrito o prestador",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "1",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "6933",
+    "descricao": "Prestação de serviço tributado pelo Imposto Sobre Serviços de Qualquer Natureza ",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "6934",
+    "descricao": "Remessa simbólica de mercadoria depositada em armazém geral ou depósito fechado",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "6949",
+    "descricao": "Outra saída de mercadoria ou prestação de serviço não especificado",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "7101",
+    "descricao": "Venda de produção do estabelecimento",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "7102",
+    "descricao": "Venda de mercadoria adquirida ou recebida de terceiros",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "7105",
+    "descricao": "Venda de produção do estabelecimento, que não deva por ele transitar",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "7106",
+    "descricao": "Venda de mercadoria adquirida ou recebida de terceiros, que não deva por ele transitar",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "7127",
+    "descricao": "Venda de produção do estabelecimento sob o regime de drawback ",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "7129",
+    "descricao": "Venda de produção do estabelecimento ao mercado externo de mercadoria industrializada sob o amparo do Regime Aduaneiro Especial de Entreposto Industrial (Recof-Sped)",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "7201",
+    "descricao": "Devolução de compra p/ industrialização ou produção rural",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "1"
+  },
+  {
+    "codigo": "7202",
+    "descricao": "Devolução de compra p/ comercialização",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "1"
+  },
+  {
+    "codigo": "7205",
+    "descricao": "Anulação de valor relativo à aquisição de serviço de comunicação",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "7206",
+    "descricao": "Anulação de valor relativo a aquisição de serviço de transporte",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "7207",
+    "descricao": "Anulação de valor relativo à compra de energia elétrica",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "7210",
+    "descricao": "Devolução de compra p/ utilização na prestação de serviço",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "1"
+  },
+  {
+    "codigo": "7211",
+    "descricao": "Devolução de compras p/ industrialização sob o regime de drawback ",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "1"
+  },
+  {
+    "codigo": "7212",
+    "descricao": "Devolução de compras para industrialização sob o regime de Regime Aduaneiro Especial de Entreposto Industrial (Recof-Sped)",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "1"
+  },
+  {
+    "codigo": "7251",
+    "descricao": "Venda de energia elétrica p/ o exterior",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "7301",
+    "descricao": "Prestação de serviço de comunicação p/ execução de serviço da mesma natureza",
+    "ind_nfe": "0",
+    "ind_comunica": "1",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "7358",
+    "descricao": "Prestação de serviço de transporte",
+    "ind_nfe": "0",
+    "ind_comunica": "0",
+    "ind_transp": "1",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "7501",
+    "descricao": "Exportação de mercadorias recebidas com fim específico de exportação",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "7551",
+    "descricao": "Venda de bem do ativo imobilizado",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "7553",
+    "descricao": "Devolução de compra de bem p/ o ativo imobilizado",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "1"
+  },
+  {
+    "codigo": "7556",
+    "descricao": "Devolução de compra de material de uso ou consumo",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "1"
+  },
+  {
+    "codigo": "7651",
+    "descricao": "Venda de combustível ou lubrificante de produção do estabelecimento",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "7654",
+    "descricao": "Venda de combustível ou lubrificante adquiridos ou recebidos de terceiros",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "7667",
+    "descricao": "Venda de combustível ou lubrificante a consumidor ou usuário final",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "7930",
+    "descricao": "Lançamento efetuado a título de devolução de bem cuja entrada tenha ocorrido sob amparo de regime especial aduaneiro de admissão temporária",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  },
+  {
+    "codigo": "7949",
+    "descricao": "Outra saída de mercadoria ou prestação de serviço não especificado",
+    "ind_nfe": "1",
+    "ind_comunica": "0",
+    "ind_transp": "0",
+    "ind_devol": "0"
+  }
+]
